@@ -1,0 +1,8 @@
+netifaces
+dnspython
+requests
+webscreenshot
+python-nmap
+progress
+pythonping
+python-gnupg
